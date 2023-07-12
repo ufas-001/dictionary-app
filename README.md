@@ -19,8 +19,8 @@ python3 app.py
 ```
 ## Usage
 When the app starts, it will display a menu with options.
-Enter 1 to look up a word.
-Enter the word you want to look up.
-If the word exists in the dictionary, the app will display its definitions.
-If the word is not found, the app will show a message indicating that the word was not found.
-To exit the app, enter 2, exit, or quit.
+1. Enter 1 to look up a word.
+2. Enter the word you want to look up.
+3. If the word exists in the dictionary, the app will display its definitions.
+4. If the word is not found, the app will show a message indicating that the word was not found.
+5. To exit the app, enter 2, exit, or quit.
